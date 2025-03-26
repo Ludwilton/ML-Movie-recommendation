@@ -1,0 +1,470 @@
+name,rating,genres,avg_user_rating,movieId
+mickey-17,★★★★,"Comedy, Adventure, Science Fiction",3.7,
+companion-2025,★★★★,"Thriller, Horror, Science Fiction, Comedy",3.5,
+nosferatu-2024,★★★½,"Fantasy, Horror",3.7,
+gladiator-ii,★★★★,"Drama, Action, Adventure",3.3,
+the-wild-robot,★★★★½,"Family, Science Fiction, Animation",4.2,
+we-live-in-time,★★★½,"Drama, Romance",3.7,
+conclave,★★★½,"Drama, Thriller, Mystery",3.9,
+better-man-2024,★½,"Music, Drama",3.8,
+alien-romulus,★★★★,"Science Fiction, Horror",3.6,
+deadpool-wolverine,★★★,"Science Fiction, Action, Comedy",3.5,
+a-quiet-place-day-one,★★★,"Thriller, Science Fiction, Horror",3.2,
+maxxxine,★★★★,"Crime, Horror, Mystery",3.1,
+inside-out-2-2024,★★★★,"Comedy, Family, Animation, Adventure",3.6,
+summer-times-2024,★★½,"Music, Drama",3.4,
+flow-2024,★★★½,"Adventure, Fantasy, Animation",4.1,
+anora,★★★½,"Drama, Romance, Comedy",3.9,
+the-substance,★★★★,"Horror, Comedy, Drama, Science Fiction",3.8,
+the-balconettes,★★½,"Comedy, Horror, Fantasy",3.3,
+the-last-journey-2024,★★★★½,Documentary,3.8,
+dune-part-two,★★★★★,"Adventure, Science Fiction",4.4,
+a-real-pain,★★½,"Comedy, Drama",3.7,
+a-heart-is-always-red,★★★½,"Music, Documentary",3.6,
+the-remarkable-life-of-ibelin,★★★★,"Documentary, Animation",4.1,
+godzilla-minus-one,★★★★,"Horror, Science Fiction, Action",4.1,
+saw-x,★★½,"Thriller, Horror, Mystery",3.2,
+the-creator-2023,★★★½,"Action, Science Fiction, Adventure",3.3,
+dream-scenario,★★½,"Comedy, Fantasy",3.4,
+poor-things-2023,★★★★½,"Romance, Science Fiction, Comedy",4.0,286783.0
+the-holdovers,★★★★,"Comedy, Drama",4.2,
+teenage-mutant-ninja-turtles-mutant-mayhem,★★★,"Action, Comedy, Animation, Science Fiction",3.8,
+oppenheimer-2023,★★★★½,"History, Drama",4.2,287699.0
+barbie,★★★½,"Comedy, Adventure",3.8,288513.0
+spider-man-across-the-spider-verse,★★★★★,"Animation, Adventure, Science Fiction, Action",4.4,286897.0
+asteroid-city,★★★½,"Comedy, Drama",3.5,287633.0
+club-zero,★★★,"Comedy, Thriller, Drama",2.9,
+guardians-of-the-galaxy-vol-3,★★★★,"Action, Adventure, Science Fiction, Comedy",4.0,285593.0
+john-wick-chapter-4,★★½,"Action, Thriller, Crime",3.9,283873.0
+ant-man-and-the-wasp-quantumania,★★½,"Adventure, Science Fiction, Action",2.2,282125.0
+watch-the-skies-2022,★★★,"Science Fiction, Adventure",3.2,282053.0
+avatar-the-way-of-water,★★★,"Action, Adventure, Science Fiction",3.6,280218.0
+puss-in-boots-the-last-wish,★★★★,"Animation, Family, Fantasy, Comedy, Adventure",4.1,281096.0
+the-menu-2022,★★★,"Comedy, Thriller, Horror",3.5,279812.0
+glass-onion,★★★½,"Comedy, Crime, Mystery",3.4,278702.0
+the-banshees-of-inisherin,★★★★½,"Comedy, Drama",4.1,278446.0
+pearl-2022,★★★½,Horror,3.7,278794.0
+inside-the-mind-of-a-cat,★★★,Documentary,3.6,277890.0
+trainwreck-woodstock-99,★★★,"Documentary, Music",3.5,
+nope,★★★½,"Mystery, Science Fiction, Horror, Thriller",3.7,275245.0
+thor-love-and-thunder,★★★,"Action, Fantasy, Comedy",2.4,274971.0
+obi-wan-kenobi-the-patterson-cut,★★½,Drama,3.1,
+aftersun,★★★★,Drama,4.2,275503.0
+triangle-of-sadness,★★★½,"Drama, Comedy",3.7,277066.0
+top-gun-maverick,★★★½,"Action, Drama",4.0,274053.0
+doctor-strange-in-the-multiverse-of-madness,★★★,"Fantasy, Adventure, Action",2.9,272525.0
+x-2022,★★★½,"Thriller, Horror, Mystery",3.4,271865.0
+everything-everywhere-all-at-once,★★★★★,"Science Fiction, Adventure, Comedy, Action",4.3,270698.0
+the-adam-project,★★★,"Science Fiction, Adventure",2.9,270696.0
+the-batman,★★★½,"Crime, Mystery, Thriller",4.0,268642.0
+the-tinder-swindler,★★★,"Documentary, Crime",3.1,269820.0
+spider-man-no-way-home,★★★½,"Action, Adventure, Science Fiction",3.8,263007.0
+dont-look-up-2021,★★★½,"Science Fiction, Comedy, Drama",3.0,263407.0
+tick-tick-boom-2021,★★★,"Drama, Music",3.8,261705.0
+eternals,★★,"Action, Science Fiction, Adventure",2.7,260665.0
+squid-game,★★★½,"Drama, Mystery",3.7,
+dune-2021,★★★★★,"Science Fiction, Adventure",3.9,254726.0
+shang-chi-and-the-legend-of-the-ten-rings,★★★,"Adventure, Fantasy, Action",3.4,255335.0
+free-guy,★★★½,"Adventure, Science Fiction, Comedy",3.0,226202.0
+the-suicide-squad,★★½,"Action, Adventure, Comedy",3.5,251086.0
+bo-burnham-inside,★★★★★,"Comedy, Drama",4.2,250010.0
+seaspiracy,★★★★,"Crime, Documentary",3.5,244368.0
+the-queens-gambit,★★★★½,Drama,4.2,
+american-murder-the-family-next-door,★★½,Documentary,3.3,225169.0
+david-attenborough-a-life-on-our-planet,★★★★,"Drama, Documentary",4.2,225758.0
+another-round,★★★★½,"Drama, Comedy",4.1,225984.0
+the-devil-all-the-time,★★★½,"Drama, Crime, Thriller",3.3,222137.0
+my-octopus-teacher,★★★★,Documentary,3.8,223876.0
+tenet,★★★½,"Action, Thriller, Science Fiction",3.4,217465.0
+extraction-2020,★★★,"Thriller, Action",3.1,214776.0
+a-quiet-place-part-ii,★★★½,"Horror, Science Fiction, Thriller",3.4,213347.0
+the-social-dilemma,★★½,"Documentary, Drama",3.2,223944.0
+dont-fk-with-cats-hunting-an-internet-killer,★★★½,"Crime, Documentary",3.7,210539.0
+star-wars-the-rise-of-skywalker,★★,"Adventure, Action, Science Fiction",2.3,208205.0
+little-women-2019,★★★★,"Romance, History, Drama",4.2,209315.0
+1917,★★★½,"History, Thriller, Drama, War",4.1,208703.0
+klaus,★★★★,"Comedy, Adventure, Animation, Fantasy, Family",4.2,208939.0
+el-camino-a-breaking-bad-movie,★★★½,"Crime, Drama, Thriller",3.6,205383.0
+jojo-rabbit,★★★★,"War, Drama, Comedy",4.0,205156.0
+knives-out-2019,★★★½,"Mystery, Comedy, Crime",4.0,207313.0
+sound-of-metal,★★★,"Music, Drama",4.2,212361.0
+joker-2019,★★★½,"Crime, Drama, Thriller",3.8,204698.0
+fantastic-fungi,★★★,Documentary,3.5,208971.0
+ad-astra-2019,★★★,"Drama, Science Fiction",3.4,204352.0
+it-chapter-two,★★★,"Horror, Thriller",2.9,204542.0
+spider-man-far-from-home,★★★½,"Adventure, Science Fiction, Action",3.4,201773.0
+midsommar,★★★★,"Mystery, Drama, Horror",3.8,201646.0
+once-upon-a-time-in-hollywood,★★★½,"Drama, Thriller, Comedy",3.8,202429.0
+parasite-2019,★★★★★,"Comedy, Thriller, Drama",4.5,202439.0
+portrait-of-a-lady-on-fire,★★★★½,"History, Drama, Romance",4.4,202749.0
+chernobyl,★★★★★,Drama,4.6,
+avengers-endgame,★★★★,"Science Fiction, Action, Adventure",3.9,122914.0
+quicksand-2019,★★★,"Drama, Crime",3.6,
+our-planet,★★★★½,Documentary,4.5,
+the-peanut-butter-falcon,★★★★,"Drama, Adventure, Comedy",3.8,203322.0
+us-2019,★★★½,"Horror, Thriller, Mystery",3.7,197711.0
+captain-marvel,★★½,"Science Fiction, Action, Adventure",2.7,122910.0
+the-great-hack,★★★,Documentary,3.3,229671.0
+apollo-11-2019,★★★½,"Drama, History, Documentary",4.1,197879.0
+fyre-2019,★★★,Documentary,3.3,197691.0
+the-cabin-2018,★★,"Thriller, Horror",2.4,196733.0
+spider-man-into-the-spider-verse,★★★★★,"Adventure, Animation, Science Fiction, Action",4.4,195159.0
+bird-box,★★,"Thriller, Drama, Horror",2.9,194951.0
+bohemian-rhapsody,★★★,"Drama, Music",3.5,192803.0
+venom-2018,★★,"Science Fiction, Action",2.9,192389.0
+free-solo,★★★★,"Adventure, Documentary",4.1,193950.0
+the-favourite,★★★★,"Thriller, Drama, Comedy, History",4.0,183837.0
+the-package-2018,★★½,Comedy,2.2,190945.0
+jurassic-world-fallen-kingdom,★★,"Action, Adventure, Science Fiction, Thriller",2.6,187031.0
+deadpool-2,★★★½,"Genre Films, Action, Comedy, Adventure",3.5,187593.0
+blackkklansman,★★★★,"Drama, Comedy, History, Crime",3.9,189713.0
+evil-genius,★★★★,"Documentary, Crime",3.6,188625.0
+arctic-2018,★★★,"Drama, Adventure",3.5,197207.0
+solo-a-star-wars-story,★★½,"Science Fiction, Adventure, Action",2.9,187595.0
+behind-the-curve,★★★,Documentary,3.3,195001.0
+avengers-infinity-war,★★★½,"Action, Science Fiction, Adventure",4.0,122912.0
+a-quiet-place-2018,★★★★,"Drama, Science Fiction, Horror",3.6,185029.0
+annihilation,★★★½,"Horror, Science Fiction",3.6,182715.0
+black-panther,★★★,"Adventure, Science Fiction, Action",3.7,122906.0
+bright,★½,"Fantasy, Thriller, Action",2.3,182823.0
+star-wars-the-last-jedi,★★★,"Adventure, Action, Science Fiction",2.9,179819.0
+blue-planet-ii,★★★★½,"Family, Documentary",4.5,179135.0
+blade-runner-2049,★★★★★,"Science Fiction, Drama",4.1,176371.0
+thor-ragnarok,★★★½,"Adventure, Action, Science Fiction",3.7,122916.0
+it-2017,★★★½,"Thriller, Horror",3.4,175303.0
+downsizing,★,"Drama, Science Fiction",2.4,179881.0
+naked-2017,★,Comedy,2.2,176599.0
+dunkirk-2017,★★★½,"Action, Drama, War",3.8,174055.0
+spider-man-homecoming,★★★,"Action, Drama, Adventure, Science Fiction",3.5,122926.0
+the-florida-project,★★★★,Drama,4.1,177651.0
+the-killing-of-a-sacred-deer,★★★½,"Thriller, Mystery, Drama",3.7,177689.0
+okja,★★★★,"Drama, Science Fiction, Adventure",3.7,171765.0
+history-of-the-entire-world-i-guess,★★★★,"History, Documentary, Comedy, Music",4.4,
+guardians-of-the-galaxy-vol-2,★★★½,"Action, Science Fiction, Adventure",3.5,122918.0
+dave-chappelle-deep-in-the-heart-of-texas,★★★½,Comedy,3.8,170411.0
+baby-driver,★★★½,"Crime, Action",3.7,171763.0
+get-out-2017,★★★½,"Horror, Mystery, Thriller",4.1,168250.0
+icarus-2017,★★★★,Documentary,3.9,176423.0
+the-101-year-old-man-who-skipped-out-on-the-bill-and-disappeared,★★½,"Adventure, Comedy",3.2,167696.0
+passengers-2016,★★★,"Romance, Drama, Science Fiction",2.8,166635.0
+rogue-one-a-star-wars-story,★★★,"Adventure, Science Fiction, Action",3.8,166528.0
+planet-earth-ii,★★★★½,"Family, Documentary",4.6,171011.0
+doctor-strange-2016,★★★,"Action, Adventure, Fantasy",3.5,122922.0
+split-2016,★★★½,"Thriller, Horror",3.5,166534.0
+moonlight-2016,★★★★,Drama,4.2,162414.0
+arrival-2016,★★★★,"Science Fiction, Mystery, Drama",4.1,164179.0
+war-dogs-2016,★★★,"Comedy, Drama, Crime",3.4,161131.0
+suicide-squad-2016,★★,"Adventure, Action, Fantasy",2.1,135536.0
+finding-dory,No Rating,"Adventure, Comedy, Animation, Family",3.3,157296.0
+paterson,★★★★,"Romance, Drama, Comedy",3.9,156605.0
+x-men-apocalypse,No Rating,"Genre Films, Science Fiction, Adventure, Action, Fantasy",2.6,122924.0
+captain-america-civil-war,★★★,"Action, Science Fiction, Adventure",3.6,122920.0
+deadpool,★★★½,"Genre Films, Action, Comedy, Adventure",3.7,122904.0
+hunt-for-the-wilderpeople,★★★★,"Comedy, Drama, Adventure",4.1,152970.0
+making-a-murderer,★★★½,"Documentary, Crime",3.9,184257.0
+the-revenant-2015,★★★,"Western, Adventure, Drama",3.9,139385.0
+star-wars-the-force-awakens,★★★,"Action, Adventure, Science Fiction",3.3,122886.0
+a-man-called-ove,★★★½,"Drama, Comedy",3.9,151113.0
+the-big-short,★★★★,"Drama, Comedy",3.8,148626.0
+the-hunger-games-mockingjay-part-2,★★½,"Adventure, Action, Science Fiction",3.4,135133.0
+the-martian,★★★,"Genre Films, Drama, Science Fiction, Adventure",3.8,134130.0
+ant-man,★★½,"Adventure, Science Fiction, Action",3.2,122900.0
+jurassic-world,★★★,"Adventure, Science Fiction, Thriller, Action",3.1,117529.0
+kung-fury,★★★,"Science Fiction, Comedy, Fantasy, Action",3.6,134170.0
+inside-out-2015,★★★½,"Comedy, Family, Animation, Adventure, Drama",3.8,134853.0
+the-lobster,★★★★,"Drama, Comedy, Romance",3.8,133771.0
+mad-max-fury-road,★★★½,"Adventure, Science Fiction, Action",4.2,122882.0
+avengers-age-of-ultron,★★★,"Action, Adventure, Science Fiction",3.2,122892.0
+chappie,★★★,"Genre Films, Science Fiction, Action, Crime",3.1,120466.0
+focus-2015,★★★,"Crime, Comedy, Romance",3.1,129354.0
+cobain-montage-of-heck,★★★★,"Music, Documentary",3.9,127146.0
+ex-machina-2015,★★★½,"Science Fiction, Drama",4.0,115713.0
+the-interview-2014,★★½,"Comedy, Action",3.0,119141.0
+kingsman-the-secret-service,★★★½,"Comedy, Crime, Adventure, Action",3.7,119145.0
+the-hobbit-the-battle-of-five-armies-extended,★★★,"Fantasy, Action, Adventure",3.2,118696.0
+the-hunger-games-mockingjay-part-1,★★½,"Thriller, Science Fiction, Adventure",3.3,116823.0
+interstellar,★★★★★,"Science Fiction, Drama, Adventure",4.4,109487.0
+citizenfour,★★★½,Documentary,4.0,117533.0
+annabelle,★★½,Horror,2.4,114713.0
+gone-girl,★★★★½,"Drama, Thriller, Mystery",4.1,112556.0
+john-wick,★★★,"Action, Thriller",3.8,115149.0
+the-maze-runner,★★½,"Science Fiction, Action, Mystery, Thriller",3.4,114180.0
+the-theory-of-everything-2014,★★★★,"Romance, Drama",3.6,117176.0
+the-imitation-game,★★★½,"Drama, Thriller, War, History",3.8,116797.0
+guardians-of-the-galaxy,★★★½,"Adventure, Action, Science Fiction",3.8,112852.0
+lucy-2014,★★½,"Action, Science Fiction",2.8,111360.0
+cowspiracy-the-sustainability-secret,★★★,Documentary,3.7,118202.0
+dawn-of-the-planet-of-the-apes,★★★,"Action, Science Fiction, Thriller, Drama",3.8,112623.0
+transformers-age-of-extinction,★★,"Science Fiction, Adventure, Action",2.1,112370.0
+22-jump-street,★★½,"Crime, Action, Comedy",3.3,112138.0
+edge-of-tomorrow,★★★,"Science Fiction, Action",3.8,111759.0
+mommy-2014,★★★★½,Drama,4.3,118896.0
+a-million-ways-to-die-in-the-west,★★½,"Western, Comedy",2.4,111743.0
+x-men-days-of-future-past,★★★,"Genre Films, Adventure, Action, Science Fiction",3.7,111362.0
+the-amazing-spider-man-2,★★★,"Action, Adventure, Science Fiction",3.0,110553.0
+divergent,★½,"Adventure, Action, Science Fiction",2.9,108190.0
+captain-america-the-winter-soldier,★★★,"Adventure, Science Fiction, Action",3.7,110102.0
+cosmos-2014,★★★★,Documentary,4.4,182723.0
+the-grand-budapest-hotel,★★★★,"Drama, Comedy",4.2,109374.0
+the-babadook,★★★½,"Drama, Horror",3.3,
+whiplash-2014,★★★★½,"Drama, Music",4.4,112552.0
+the-wolf-of-wall-street,★★★½,"Comedy, Drama, Crime",4.0,106782.0
+frozen-2013,★★★,"Fantasy, Animation, Adventure, Family",3.4,106696.0
+the-hunger-games-catching-fire,★★★,"Science Fiction, Adventure, Action",3.9,106487.0
+thor-the-dark-world,★★,"Action, Adventure, Fantasy",2.2,106072.0
+her,★★★★½,"Science Fiction, Drama, Romance",4.0,106920.0
+enemy,★★★★,"Mystery, Thriller",3.6,108729.0
+oculus,★★★,Horror,3.2,110591.0
+12-years-a-slave,★★★★,"History, Drama",4.2,105844.0
+gravity-2013,★★★,"Thriller, Drama, Science Fiction",3.5,104841.0
+elysium-2013,★★½,"Genre Films, Science Fiction, Drama, Thriller, Action",2.9,103253.0
+snowpiercer,★★★★,"Drama, Science Fiction, Action",3.7,107406.0
+pacific-rim,★★★,"Science Fiction, Adventure, Action",3.4,103228.0
+world-war-z,★★½,"Horror, Action, Thriller, Science Fiction",3.2,103249.0
+man-of-steel,★★½,"Action, Adventure, Science Fiction",3.0,103042.0
+this-is-the-end,★★★,"Comedy, Action",3.2,102123.0
+now-you-see-me,★★★,"Thriller, Crime",3.4,102903.0
+iron-man-3,★★★,"Action, Adventure, Science Fiction",3.0,102125.0
+we-are-the-best,★★★½,"Drama, Music",3.8,110461.0
+blackfish,★★★★,Documentary,4.0,104272.0
+django-unchained,★★★★½,"Drama, Western",4.3,99114.0
+pitch-perfect,★★½,"Music, Comedy, Romance",3.5,96588.0
+life-of-pi,★★★,"Drama, Adventure",3.7,97938.0
+taken-2,★★,"Crime, Thriller, Action",2.6,96861.0
+looper,★★★,"Science Fiction, Thriller, Action",3.6,96610.0
+the-expendables-2,★★,"Action, Adventure, Thriller",2.7,91485.0
+the-dark-knight-rises,★★★½,"Thriller, Drama, Crime, Action",3.8,91529.0
+ice-age-continental-drift,★★½,"Adventure, Family, Comedy, Animation",2.8,95543.0
+the-amazing-spider-man,★★★,"Science Fiction, Adventure, Action",3.4,95510.0
+ted,★★★,"Fantasy, Comedy",3.0,95441.0
+the-hunt-2012,★★★★½,Drama,4.3,96829.0
+moonrise-kingdom,★★★★,"Romance, Drama, Comedy",4.0,94959.0
+the-dictator-2012,★★★,Comedy,2.9,94677.0
+men-in-black-3,★★★,"Comedy, Action, Science Fiction",3.1,94777.0
+the-avengers-2012,★★★,"Science Fiction, Adventure, Action",3.7,89745.0
+prometheus,★★★,"Science Fiction, Horror, Adventure, Mystery",3.3,94864.0
+21-jump-street,★★★½,"Crime, Comedy, Action",3.6,93510.0
+the-hunger-games,★★★,"Fantasy, Science Fiction, Adventure",3.7,91500.0
+project-x-2012,★★,Comedy,3.3,93270.0
+the-cabin-in-the-woods,★★★½,"Horror, Mystery",3.4,93840.0
+sherlock-holmes-a-game-of-shadows,★★★,"Crime, Mystery, Action, Adventure",3.3,91542.0
+in-time,★★★,"Thriller, Action, Science Fiction",2.9,90405.0
+real-steel,★★★,"Action, Drama, Science Fiction",3.4,90249.0
+the-intouchables,★★★★,"Drama, Comedy",4.1,92259.0
+50-50,★★★½,"Comedy, Drama",3.6,89864.0
+rise-of-the-planet-of-the-apes,★★★½,"Thriller, Science Fiction, Action, Drama",3.7,88744.0
+captain-america-the-first-avenger,★★★,"Science Fiction, Action, Adventure",3.3,88140.0
+friends-with-benefits,★★★,"Comedy, Romance",2.9,88405.0
+harry-potter-and-the-deathly-hallows-part-2,★★★★,"Fantasy, Adventure",4.0,88125.0
+transformers-dark-of-the-moon,★★½,"Action, Science Fiction, Adventure",2.7,87520.0
+x-men-first-class,★★★,"Adventure, Action, Science Fiction",3.6,87232.0
+the-hangover-part-ii,★★★,Comedy,3.0,86911.0
+pirates-of-the-caribbean-on-stranger-tides,★★½,"Adventure, Fantasy, Action",2.9,86880.0
+paul-2011,★★★,"Science Fiction, Comedy, Adventure",3.1,84772.0
+harry-potter-and-the-deathly-hallows-part-1,★★★★,"Fantasy, Adventure",3.7,81834.0
+jackass-3d,★★★,"Comedy, Documentary, Action",3.4,81156.0
+the-social-network,★★★,Drama,3.9,80463.0
+127-hours,★★½,"Adventure, Thriller, Drama",3.5,81562.0
+simple-simon,★★★½,"Comedy, Drama",3.8,84234.0
+black-swan,★★★★,"Drama, Thriller, Horror",4.2,81591.0
+the-other-guys,★★★,"Crime, Thriller, Action, Comedy",3.3,79592.0
+scott-pilgrim-vs-the-world,★★,"Comedy, Romance, Action",3.9,79702.0
+inception,★★★★,"Action, Adventure, Science Fiction",4.2,79132.0
+grown-ups,★★½,Comedy,3.1,79134.0
+toy-story-3,★★★½,"Comedy, Animation, Family",4.0,78499.0
+the-karate-kid-2010,★★½,"Drama, Action, Family, Adventure",3.0,79224.0
+iron-man-2,★★★,"Adventure, Science Fiction, Action",2.9,77561.0
+shutter-island,★★★★,"Mystery, Drama, Thriller",4.1,74458.0
+sherlock-holmes-2009,★★★½,"Action, Mystery, Adventure, Crime",3.5,73017.0
+avatar,★★★½,"Fantasy, Science Fiction, Adventure, Action",3.6,72998.0
+2012,★★,"Adventure, Action, Science Fiction",2.5,72378.0
+a-serious-man,★★★½,"Comedy, Drama",3.9,71464.0
+jennifers-body,★★★,"Horror, Comedy",3.4,71205.0
+district-9,★★★½,Science Fiction,3.8,70286.0
+harry-potter-and-the-half-blood-prince,★★★½,"Adventure, Fantasy",3.7,69844.0
+ice-age-dawn-of-the-dinosaurs,★★★,"Comedy, Adventure, Family, Animation",3.2,69644.0
+transformers-revenge-of-the-fallen,★★½,"Action, Adventure, Science Fiction",2.5,69526.0
+the-hangover,★★★,Comedy,3.7,69122.0
+inglourious-basterds,★★★★,"Drama, Thriller, War",4.3,68157.0
+up,★★★★,"Animation, Adventure, Family, Comedy",4.1,68954.0
+x-men-origins-wolverine,★★,"Science Fiction, Adventure, Action",2.5,68319.0
+yes-man,★★★,"Comedy, Romance",3.1,64969.0
+twilight-2008,½,"Romance, Drama, Fantasy",3.0,63992.0
+tropic-thunder,★★★½,"War, Adventure, Comedy, Action",3.6,61132.0
+pineapple-express,★★★,"Comedy, Crime, Action",3.3,61024.0
+the-dark-knight,★★★★★,"Action, Drama, Thriller, Crime",4.5,58559.0
+hancock,★★★,"Action, Fantasy",2.8,60074.0
+mamma-mia,★★★½,"Comedy, Romance",3.8,60397.0
+walle,★★★★½,"Animation, Science Fiction, Family",4.2,60069.0
+the-incredible-hulk,No Rating,"Science Fiction, Action, Adventure",2.5,60040.0
+indiana-jones-and-the-kingdom-of-the-crystal-skull,★★½,"Action, Adventure",2.7,59615.0
+the-boy-in-the-striped-pyjamas,★★★,"War, History, Drama",3.6,64034.0
+radiohead-in-rainbows-from-the-basement,★★★★★,"Documentary, Music",4.7,
+iron-man-2008,★★★★,"Adventure, Science Fiction, Action",3.7,59315.0
+taken,★★★½,"Thriller, Action",3.5,59369.0
+let-the-right-one-in,★★★★,"Horror, Drama",4.0,61240.0
+rambo,★★★,"Action, War, Thriller",3.1,57528.0
+dear-zachary-a-letter-to-a-son-about-his-father,★★★★½,"Documentary, Crime",4.4,65188.0
+the-bucket-list,★★★,"Drama, Comedy",3.3,56587.0
+i-am-legend,★★★½,"Thriller, Drama, Science Fiction",3.4,56174.0
+hot-rod,★★★½,"Action, Comedy",3.5,54256.0
+the-bourne-ultimatum,★★★½,"Action, Mystery, Drama, Thriller",3.7,54286.0
+the-simpsons-movie,★★★,"Family, Comedy, Animation",3.5,54272.0
+earth,★★★★,Documentary,3.8,68522.0
+harry-potter-and-the-order-of-the-phoenix,★★★½,"Adventure, Fantasy",3.7,54001.0
+transformers,★★½,"Action, Science Fiction, Adventure",3.2,53996.0
+evan-almighty,★★½,"Comedy, Family, Fantasy",2.4,53993.0
+pirates-of-the-caribbean-at-worlds-end,★★★½,"Action, Adventure, Fantasy",3.5,53125.0
+no-country-for-old-men,★★★★★,"Crime, Thriller, Drama",4.3,55820.0
+spider-man-3,★★★,"Science Fiction, Adventure, Action",3.1,52722.0
+superbad,★★★½,Comedy,3.9,54503.0
+zodiac,★★★★,"Drama, Crime, Thriller, Mystery",4.0,51540.0
+hot-fuzz,★★★,"Action, Crime, Comedy",4.1,51255.0
+night-at-the-museum,★★★,"Fantasy, Family, Comedy, Adventure, Action",3.3,46972.0
+tenacious-d-in-the-pick-of-destiny,★★★,"Adventure, Fantasy, Comedy, Music",3.5,49396.0
+the-prestige,★★★★½,"Science Fiction, Drama, Mystery",4.3,48780.0
+this-is-england,★★★★,"Crime, Drama",4.1,52952.0
+children-of-men,★★★★½,"Action, Drama, Science Fiction, Thriller",4.3,48774.0
+borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan,★★★★,Comedy,3.7,48385.0
+pirates-of-the-caribbean-dead-mans-chest,★★★,"Action, Adventure, Fantasy",3.7,45722.0
+click,★★½,"Drama, Comedy, Fantasy",2.9,45672.0
+scary-movie-4,★★,Comedy,2.3,44972.0
+ice-age-the-meltdown,★★★,"Adventure, Comedy, Family, Animation",3.1,44022.0
+cars,★★★,"Adventure, Family, Comedy, Animation",3.8,45517.0
+planet-earth-2006,★★★★½,Documentary,4.6,159817.0
+little-miss-sunshine,★★★,"Drama, Comedy",4.2,46578.0
+v-for-vendetta,★★★½,"Thriller, Science Fiction, Action",3.9,44191.0
+king-kong-2005,★★★,"Drama, Action, Adventure",3.4,41569.0
+harry-potter-and-the-goblet-of-fire,★★★½,"Adventure, Fantasy",3.8,40815.0
+the-legend-of-zorro,★★★,"Western, Adventure, Action",2.8,39435.0
+pride-prejudice,★★★★,"Drama, Romance",4.1,40629.0
+brokeback-mountain,★★★★½,"Romance, Drama",4.1,39183.0
+the-40-year-old-virgin,★★★½,"Romance, Comedy",3.3,35836.0
+fantastic-four-2005,★★,"Science Fiction, Action, Fantasy",2.6,34150.0
+mr-mrs-smith-2005,★★★,"Thriller, Drama, Action, Comedy",3.3,33679.0
+batman-begins,★★★½,"Crime, Action, Drama",3.8,33794.0
+star-wars-episode-iii-revenge-of-the-sith,★★★,"Science Fiction, Adventure, Action",3.9,33493.0
+madagascar,★★★½,"Family, Adventure, Comedy, Animation",3.5,33615.0
+hitch-2005,★★★,"Romance, Comedy, Drama",3.1,31685.0
+national-treasure,★★★,"Thriller, Mystery, Adventure, Action",3.3,8972.0
+the-incredibles,★★★½,"Animation, Family, Adventure, Action",4.1,8961.0
+shark-tale,★★★,"Action, Animation, Comedy, Family",2.9,8907.0
+i-robot,★★★,"Action, Science Fiction",3.2,8644.0
+anchorman-the-legend-of-ron-burgundy,★★★½,Comedy,3.5,8641.0
+spider-man-2,★★★½,"Action, Science Fiction, Adventure",3.9,8636.0
+white-chicks,★★★,"Comedy, Crime",3.5,8531.0
+harry-potter-and-the-prisoner-of-azkaban,★★★★,"Fantasy, Adventure",4.1,8368.0
+the-day-after-tomorrow,★★★,"Action, Thriller, Science Fiction, Adventure",3.0,8361.0
+shrek-2,★★★★,"Family, Adventure, Comedy, Animation, Fantasy",4.1,8360.0
+mean-girls,★★★½,"Comedy, Drama",3.8,7451.0
+shaun-of-the-dead,★★★½,"Comedy, Horror",4.0,8874.0
+eternal-sunshine-of-the-spotless-mind,★★★★½,"Science Fiction, Romance, Drama",4.2,7361.0
+the-lord-of-the-rings-the-return-of-the-king,★★★★★,"Fantasy, Adventure, Action",4.5,7153.0
+slim-susie,★★★★½,"Crime, Comedy",3.6,41912.0
+kill-bill-vol-1,★★★,"Crime, Action",4.2,6874.0
+love-actually,★★★,"Drama, Romance, Comedy",3.5,6942.0
+lost-in-translation,★★★★,"Drama, Comedy, Romance",3.8,6711.0
+spy-kids-3-d-game-over,★★½,"Comedy, Science Fiction, Family, Action, Adventure",2.5,6566.0
+pirates-of-the-caribbean-the-curse-of-the-black-pearl,★★★½,"Fantasy, Adventure, Action",4.0,6539.0
+hulk,★★,"Science Fiction, Adventure, Action",2.4,6534.0
+finding-nemo,★★★★,"Animation, Family",4.0,6377.0
+evil,★★★★,Drama,3.8,27700.0
+bruce-almighty,★★★,"Comedy, Fantasy",3.2,6373.0
+memories-of-murder,★★★★½,"Thriller, Drama, Crime",4.4,31364.0
+x2,★★★,"Action, Adventure, Science Fiction",3.4,6333.0
+johnny-english,★★★,"Adventure, Comedy, Action",3.0,6550.0
+the-lord-of-the-rings-the-two-towers,★★★★½,"Fantasy, Adventure, Action",4.4,5952.0
+catch-me-if-you-can-2002,★★★★,"Drama, Crime",4.0,5989.0
+harry-potter-and-the-chamber-of-secrets,★★★½,"Fantasy, Adventure",3.6,5816.0
+8-mile,★★★½,"Drama, Music",3.6,5810.0
+lilya-4-ever,★★★★,"Drama, Crime",4.1,6291.0
+spy-kids-2-the-island-of-lost-dreams,★★½,"Action, Adventure, Science Fiction, Family, Comedy",2.8,5504.0
+austin-powers-in-goldmember,★★★,"Comedy, Crime, Science Fiction",3.0,5481.0
+men-in-black-ii,★★½,"Science Fiction, Comedy, Action",3.0,5459.0
+lilo-stitch,★★★★,"Comedy, Animation, Family",4.0,5444.0
+scooby-doo,★★½,"Comedy, Adventure, Mystery",3.3,5419.0
+the-bourne-identity-2002,★★★½,"Drama, Action, Mystery, Thriller",3.7,5418.0
+star-wars-episode-ii-attack-of-the-clones,★★,"Action, Science Fiction, Adventure",2.9,5378.0
+spider-man,★★★½,"Science Fiction, Action",3.8,5349.0
+ice-age,★★★★,"Comedy, Adventure, Family, Animation",3.6,5218.0
+the-lord-of-the-rings-the-fellowship-of-the-ring,★★★★½,"Fantasy, Adventure, Action",4.4,4993.0
+harry-potter-and-the-philosophers-stone,★★★½,"Adventure, Fantasy",3.8,4896.0
+monsters-inc,★★★½,"Comedy, Animation, Family",4.1,4886.0
+the-blue-planet,★★★★½,Documentary,4.4,142115.0
+american-pie-2,★★★,"Romance, Comedy",2.9,4718.0
+jurassic-park-iii,★★★,"Action, Thriller, Adventure, Science Fiction",2.8,4638.0
+atlantis-the-lost-empire,★★★½,"Family, Animation, Adventure, Science Fiction",3.7,4366.0
+amelie,★★★★,"Romance, Comedy",4.2,4973.0
+shrek,★★★★,"Adventure, Fantasy, Family, Animation, Comedy",4.1,4306.0
+spy-kids,★★★,"Family, Adventure, Comedy, Science Fiction, Action",3.0,4232.0
+almost-famous,★★★★,"Drama, Music",4.1,3897.0
+memento,★★★★,"Mystery, Thriller",4.2,4226.0
+together-2000,★★★★,"Comedy, Drama, Romance",3.9,4741.0
+x-men,★★★,"Science Fiction, Action, Adventure",3.3,3793.0
+scary-movie-2000,★★★,Comedy,3.1,3785.0
+chicken-run,★★★★,"Animation, Family, Comedy",3.6,3751.0
+dinosaur,★★½,"Adventure, Animation, Family",2.9,3615.0
+gladiator-2000,★★★★,"Action, Adventure, Drama",4.1,3578.0
+american-psycho,★★★★½,"Crime, Thriller, Horror, Drama",3.8,3535.0
+stuart-little,★★★,"Comedy, Adventure, Fantasy, Family",2.9,3157.0
+the-green-mile,★★★★,"Drama, Crime, Fantasy",4.2,3147.0
+toy-story-2,★★★★,"Family, Animation, Comedy",3.9,3114.0
+walking-with-dinosaurs,★★★★,"Documentary, Animation",4.2,
+fight-club,★★★★,Drama,4.3,2959.0
+american-pie,★★★,"Romance, Comedy",3.1,2706.0
+tarzan,★★★½,"Drama, Family, Adventure, Animation",3.7,2687.0
+austin-powers-the-spy-who-shagged-me,★★★,"Comedy, Science Fiction, Crime, Adventure",3.3,2683.0
+star-wars-episode-i-the-phantom-menace,★★★,"Action, Science Fiction, Adventure",3.0,2628.0
+the-matrix,★★★★,"Science Fiction, Action",4.2,2571.0
+show-me-love,★★★½,"Drama, Comedy, Romance",3.8,7034.0
+american-history-x,★★★★,Drama,4.1,2329.0
+the-truman-show,★★★★,"Comedy, Drama",4.2,1682.0
+the-big-lebowski,★★★½,"Crime, Comedy",4.1,1732.0
+good-will-hunting,★★★★½,Drama,4.3,1704.0
+titanic-1997,★★★½,"Drama, Romance",3.8,1721.0
+men-in-black,★★★½,"Comedy, Action, Science Fiction, Adventure",3.7,1580.0
+the-lost-world-jurassic-park,★★★,"Science Fiction, Action, Adventure",3.1,1544.0
+the-fifth-element,★★★★,"Action, Science Fiction, Adventure",3.8,1527.0
+independence-day,★★★½,"Adventure, Action, Science Fiction",3.3,780.0
+mission-impossible,★★★,"Action, Thriller, Adventure",3.6,648.0
+trainspotting,★★★★,"Drama, Crime",4.2,778.0
+heat-1995,★★★★,"Crime, Action, Drama",4.3,6.0
+toy-story,★★★★,"Comedy, Animation, Family, Adventure",4.1,1.0
+se7en,★★★★½,"Crime, Mystery, Thriller",4.3,47.0
+clueless,★★★,"Comedy, Romance",3.7,39.0
+bad-boys-1995,★★★,"Comedy, Action, Thriller, Crime",3.2,145.0
+dumb-and-dumber,★★★,Comedy,3.4,231.0
+the-shawshank-redemption,★★★★★,"Crime, Drama",4.6,318.0
+forrest-gump,★★★★½,"Drama, Comedy, Romance",4.1,356.0
+the-lion-king,★★★★,"Animation, Family, Drama",4.2,364.0
+pulp-fiction,★★★★½,"Crime, Thriller",4.3,296.0
+ace-ventura-pet-detective,★★½,"Crime, Comedy, Mystery, Adventure",3.2,344.0
+schindlers-list,★★★★½,"History, Drama, War",4.5,527.0
+jurassic-park,★★★★,"Science Fiction, Adventure",4.1,480.0
+alien-3,★★½,"Horror, Science Fiction, Action",2.8,1320.0
+the-silence-of-the-lambs,★★★★½,"Horror, Crime, Thriller, Drama",4.3,593.0
+home-alone,★★★½,"Family, Comedy",3.8,586.0
+back-to-the-future-part-ii,★★★½,"Comedy, Science Fiction, Adventure",3.9,2011.0
+dead-poets-society,★★★★,Drama,4.3,1246.0
+indiana-jones-and-the-last-crusade,★★★½,"Adventure, Action",4.1,1291.0
+rain-man,★★★½,Drama,3.9,1961.0
+cinema-paradiso,★★★½,"Drama, Romance",4.5,1172.0
+die-hard,★★★½,"Thriller, Action",4.1,1036.0
+my-neighbor-totoro,★★★½,"Fantasy, Animation, Family",4.2,5971.0
+the-princess-bride,★★★★½,"Adventure, Romance, Fantasy, Family, Comedy",4.1,1197.0
+aliens,★★★★,"Science Fiction, Horror, Thriller, Action",4.1,1200.0
+rocky-iv-rocky-vs-drago-the-ultimate-directors,★★★,Drama,3.7,2411.0
+come-and-see,★★★★★,"War, Drama",4.6,6818.0
+back-to-the-future,★★★½,"Comedy, Science Fiction, Adventure",4.2,1270.0
+return-of-the-jedi,★★★★,"Action, Science Fiction, Adventure",4.1,1210.0
+first-blood,★★★½,"War, Action, Adventure, Thriller",3.8,2403.0
+et-the-extra-terrestrial,★★★½,"Science Fiction, Fantasy, Adventure, Family",3.8,1097.0
+raiders-of-the-lost-ark,★★★★,"Adventure, Action",4.2,1198.0
+the-shining,★★★½,"Horror, Thriller",4.2,1258.0
+the-empire-strikes-back,★★★★½,"Action, Science Fiction, Adventure",4.4,1196.0
+alien,★★★★½,"Horror, Science Fiction",4.3,1214.0
+grease,★★★,"Comedy, Romance",3.5,1380.0
+star-wars,★★★★,"Adventure, Action, Science Fiction",4.2,260.0
+rocky,★★★,Drama,4.1,1954.0
+the-exorcist,★★★★,Horror,4.0,1997.0
+2001-a-space-odyssey,★★★½,"Adventure, Mystery, Science Fiction",4.3,924.0
