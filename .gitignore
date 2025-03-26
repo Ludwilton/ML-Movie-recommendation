@@ -173,3 +173,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Large data files
+data/ratings.csv
+data/tags.csv
