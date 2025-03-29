@@ -86,4 +86,4 @@ def letterboxd_to_movielens(input_file):
     return result_df
 
 if __name__ == "__main__":
-    letterboxd_to_movielens('clar_ratings.csv')
+    letterboxd_to_movielens("ludde_ratings.csv")
