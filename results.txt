@@ -1,0 +1,52 @@
+200n
+min_avg_rating=0
+user_min_percentile=0.15
+user_max_percentile=0.999
+min_ratings_per_movie=3
+max_users_per_movie=180 # 250
+user_similarity_threshold=0.15 # 0.15
+
+
+RMSE: 2.3925
+MAE: 2.2444
+Mean Error: -2.2433
+Correlation: 0.3081
+Number of predictions: 417
+
+
+
+
+new scaling:
+
+n_components=200,
+sample_size=1,
+max_iter=800,
+min_avg_rating=0
+user_min_percentile=0.20 # these seem to fit the average user best
+user_max_percentile=0.97
+min_ratings_per_movie=3
+max_users_per_movie=120 # 250
+user_similarity_threshold=0.15 # 0.15
+RMSE: 2.2984
+MAE: 2.1159
+Mean Error: -2.1153
+Correlation: 0.3247
+Number of predictions: 410
+
+
+
+
+
+
+min_avg_rating=0
+user_min_percentile=0.20 # these seem to fit the average user best
+user_max_percentile=0.97
+min_ratings_per_movie=3
+max_users_per_movie=200 # 250
+user_similarity_threshold=0.15 # 0.15
+    n_components=200,
+    RMSE: 2.2629
+MAE: 2.0519
+Mean Error: -2.0293
+Correlation: 0.3203
+Number of predictions: 413
