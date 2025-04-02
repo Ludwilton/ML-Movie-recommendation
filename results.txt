@@ -50,3 +50,28 @@ MAE: 2.0519
 Mean Error: -2.0293
 Correlation: 0.3203
 Number of predictions: 413
+
+
+
+
+
+
+
+n_components=300,
+RMSE: 2.2679
+MAE: 2.0755
+Mean Error: -2.0697
+Correlation: 0.3640
+Number of predictions: 413
+
+min_avg_rating=0
+user_min_percentile=0.20
+user_max_percentile=0.97
+min_ratings_per_movie=3
+max_users_per_movie=160
+user_similarity_threshold=0.15
+
+
+
+
+
