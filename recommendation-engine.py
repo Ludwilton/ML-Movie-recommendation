@@ -7,14 +7,13 @@ import re
 
 
 def load_recommendation_model():
-    model = joblib.load("model_files/800n/nmf_model.joblib")
-    movie_ids = joblib.load("model_files/800n/movie_ids.joblib") # we need this to map the user ratings to the model's movie IDs
+    model = joblib.load("model_files/nmf_model.joblib")
+    movie_ids = joblib.load("model_files/movie_ids.joblib") # we need this to map the user ratings to the model's movie IDs
     return model, movie_ids
 
-def load_user_ratings(path, movie_ids):
 
+def load_user_ratings(path, movie_ids):
     user_data = pd.read_csv(path)
-    
     user_ratings = pd.DataFrame(0.0, index=[0], columns=movie_ids)
     
     for _, row in user_data.iterrows():
@@ -26,8 +25,8 @@ def load_user_ratings(path, movie_ids):
     rated_mask = ratings > 0
     nonzero_ratings = ratings[rated_mask]
     
-    # Apply Z-score normalization if there are multiple ratings with variance
-    if len(nonzero_ratings) > 1 and np.std(nonzero_ratings) > 0:
+    
+    if len(nonzero_ratings) > 1 and np.std(nonzero_ratings) > 0: # z-zcore
         mean = np.mean(nonzero_ratings)
         std = np.std(nonzero_ratings)
         
@@ -41,20 +40,18 @@ def load_user_ratings(path, movie_ids):
 
 def get_recommendations(nmf_model, movie_ids, user_ratings, n_recommendations=100):
     user_factors = nmf_model.transform(user_ratings.values)
-    
-    # Get predicted ratings
+
     predicted_ratings = user_factors.dot(nmf_model.components_)[0]
-    
-    # Mark already rated movies to exclude them
+
     rated_mask = user_ratings.values[0] > 0
     scores = predicted_ratings.copy()
     scores[rated_mask] = -1
     
-    # Get top movie indices and their IDs
     top_indices = np.argsort(-scores)[:n_recommendations]
     recommendations = [movie_ids[idx] for idx in top_indices]
     
     return recommendations
+
 
 def display_recommendations(movie_ids, movie_id_to_title_map):
     print("\nTop Recommendations:")
@@ -64,30 +61,14 @@ def display_recommendations(movie_ids, movie_id_to_title_map):
 
 
 def find_best_movie_match(title, movies_df):
-    """
-    Find the best match for a movie title in the movies DataFrame.
-    
-    Args:
-        title (str): The movie title to search for
-        movies_df (DataFrame): DataFrame containing movie data
-    
-    Returns:
-        Series or None: The best matching movie or None if no match is found
-    """
-    import re
-    
-    # Convert title to lowercase for case-insensitive matching
     title_lower = title.lower().strip()
     
-    # Try exact match first
     exact_matches = movies_df[movies_df['title'].str.lower() == title_lower]
     if not exact_matches.empty:
         return exact_matches.iloc[0]
     
-    # Create a cleaned version of the title without year
     title_no_year = re.sub(r'\s*\(\d{4}\)\s*$', '', title_lower)
     
-    # Try exact match with title without year
     for _, movie in movies_df.iterrows():
         movie_title = movie['title'].lower()
         movie_title_no_year = re.sub(r'\s*\(\d{4}\)\s*$', '', movie_title)
@@ -95,12 +76,10 @@ def find_best_movie_match(title, movies_df):
         if movie_title_no_year == title_no_year:
             return movie
     
-    # Try substring match
     substring_matches = movies_df[movies_df['title'].str.lower().str.contains(title_lower, regex=False)]
     if not substring_matches.empty:
         return substring_matches.iloc[0]
     
-    # Try word-by-word matching for partial matches
     potential_matches = []
     title_words = set(title_no_year.split())
     
@@ -109,28 +88,23 @@ def find_best_movie_match(title, movies_df):
         movie_title_no_year = re.sub(r'\s*\(\d{4}\)\s*$', '', movie_title)
         movie_words = set(movie_title_no_year.split())
         
-        # Calculate word overlap
         common_words = title_words.intersection(movie_words)
         if common_words:
-            # Score based on number of matching words and title length difference
             word_score = len(common_words) / max(len(title_words), len(movie_words))
             length_penalty = abs(len(movie_title_no_year) - len(title_no_year)) / 100
             score = word_score - length_penalty
             
             potential_matches.append((score, movie))
     
-    # Sort by score (higher is better)
     if potential_matches:
         potential_matches.sort(key=lambda x: x[0], reverse=True)
         return potential_matches[0][1]
     
-    # No matches found
     return None
 
 
 
 def recommend_from_title(title, model, movie_ids, movies_df, n_recommendations=10):
-
     match = find_best_movie_match(title, movies_df)
     
     if match is None:
@@ -142,7 +116,6 @@ def recommend_from_title(title, model, movie_ids, movies_df, n_recommendations=1
     movie_title = match['title']
     print(f"Using: {movie_title}")
     
-    # Create ratings with single movie rated 5.0
     user_ratings = pd.DataFrame(0.0, index=[0], columns=movie_ids)
     
     if movie_id in movie_ids:
@@ -163,14 +136,14 @@ if __name__ == "__main__":
     movies_df = pd.read_csv("data/movies.csv")
     movie_id_to_title = dict(zip(movies_df['movieId'], movies_df['title']))
     
-     #based on user data taken from letterboxd
-    # user_ratings = load_user_ratings("data/ludde_ratings_with_ids.csv", movie_ids)
-    # recommended_movie_ids = get_recommendations(model, movie_ids, user_ratings)
-    # display_recommendations(recommended_movie_ids, movie_id_to_title)
-    # 
+    # based on user data taken from letterboxd
+    user_ratings = load_user_ratings("data/zorrodor_ratings_with_ids.csv", movie_ids)
+    recommended_movie_ids = get_recommendations(model, movie_ids, user_ratings)
+    display_recommendations(recommended_movie_ids, movie_id_to_title)
+
     # get recommendations based on a single movie
-    movie_title = "scener ur ett äktenskap" # TODO get genre, recommend only from the same genre
-    similar_movies = recommend_from_title(movie_title, model, movie_ids, movies_df)
-    display_recommendations(similar_movies, movie_id_to_title)
+    # movie_title = "Pearl (2022)"
+    # similar_movies = recommend_from_title(movie_title, model, movie_ids, movies_df,20)
+    # display_recommendations(similar_movies, movie_id_to_title)
 # 
 # %%
