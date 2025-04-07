@@ -7,8 +7,8 @@ import re
 
 
 def load_recommendation_model():
-    model = joblib.load("model_files/nmf_model.joblib")
-    movie_ids = joblib.load("model_files/movie_ids.joblib") # we need this to map the user ratings to the model's movie IDs
+    model = joblib.load("model_files/good_4k20k370n/nmf_model.joblib")
+    movie_ids = joblib.load("model_files/good_4k20k370n/movie_ids.joblib") # we need this to map the user ratings to the model's movie IDs
     return model, movie_ids
 
 
@@ -137,13 +137,12 @@ if __name__ == "__main__":
     movie_id_to_title = dict(zip(movies_df['movieId'], movies_df['title']))
     
     # based on user data taken from letterboxd
-    user_ratings = load_user_ratings("data/zorrodor_ratings_with_ids.csv", movie_ids)
+    user_ratings = load_user_ratings("data/liv_ratings_with_ids.csv", movie_ids)
     recommended_movie_ids = get_recommendations(model, movie_ids, user_ratings)
     display_recommendations(recommended_movie_ids, movie_id_to_title)
 
-    # get recommendations based on a single movie
-    # movie_title = "Pearl (2022)"
+    #get recommendations based on a single movie
+    # movie_title = "reservoir dogs"
     # similar_movies = recommend_from_title(movie_title, model, movie_ids, movies_df,20)
     # display_recommendations(similar_movies, movie_id_to_title)
 # 
-# %%
